@@ -1,0 +1,36 @@
+## .gitignore for Documentation created with Obsidian 
+## RGoe 2024.10.26 - V.:0.00 
+## Spezial files
+4me.txt
+
+## Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+## Ignore Obsidian workspace files
+.obsidian/workspace
+.obsidian/workspace.json
+
+## Ignore Obsidian plugins and other settings
+.obsidian/plugins/
+.obsidian/snippets/
+.obsidian/themes/
+
+## Ignore Obsidian cache files
+.obsidian/cache
+.obsidian/config
+
+## Ignore backup files (if Obsidian uses backups)
+*.bak
+
+## Ignore note metadata
+*.md.meta
+
+## Ignore any generated output files (for example, exported PDFs or HTML)
+*.pdf
+*.html
+
+## Optional: Ignore specific folders (for example, a publish folder)
+publish/
+
+## EOF .gitignore 
