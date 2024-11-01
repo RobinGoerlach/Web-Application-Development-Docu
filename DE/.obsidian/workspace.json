@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "467fb07843ea2ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c74655b72a819c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d51f6bdbe4d29e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d6a49eb8e1aedf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e00c00475485d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a20df607086a77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "1ca43cb5b37d562c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d1288b7e08b7d31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4ae8ae5d4d1225b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e1d720001ccc69d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a6214f0fffce8e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grundlagen/HTML/HTML Überblick.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HTML Überblick"
+            }
+          },
+          {
+            "id": "2af0e7d7df835740",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fullstack Web Developer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fullstack Web Developer"
+            }
+          },
+          {
+            "id": "a5f9f9f4f67bbe96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6291b85e51a1f364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fullstack Web Developer.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fullstack Web Developer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 537.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d51f6bdbe4d29e1",
+  "lastOpenFiles": [
+    "Grundlagen/HTML/HTML Cheat Sheet.md",
+    "Grundlagen/HTML/HTML Überblick.md",
+    "Grundlagen/HTML/HTML Tips & Tricks.md",
+    "Grundlagen/HTML/HTML Nützliche Links.md",
+    "Grundlagen/HTML/HTML Best Practice.md",
+    "Grundlagen/HTML/HTML Dokumentstruktur.md",
+    "Grundlagen/HTML/HTML Clean Code.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Version Control/Git - Version Control.md",
+    "README.md",
+    "DevDoc.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Einführung - Tools für die Entwicklung und Zusammenarbeit.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Version Control",
+    "Fullstack Web Developer.md",
+    "Tools für die Entwicklung und Zusammenarbeit",
+    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Einführung in Tailwind CSS.md",
+    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Grid-Layout mit Tailwind.md",
+    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Flexbox-Layout mit Tailwind.md",
+    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Farbgestaltung mit Tailwind CSS.md",
+    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Textgestaltung mit Tailwind CSS.md",
+    "Frameworks & Libraries/Frameworks und Bibliotheken Einführung.md",
+    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind",
+    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks",
+    "Grundlagen/Grundlagen Einführung.md",
+    "Frameworks & Bibliotheken Einführung/Frameworks.md",
+    "Grundlagen/JavaScript/JavaScript Überblick.md",
+    "Grundlagen/CSS/CSS Überblick.md",
+    "Frameworks und Bibliotheken Einführung/Frameworks.md",
+    "Frameworks & Bibliotheken Einführung",
+    "Frameworks und Bibliotheken Einführung",
+    "Frameworks & Libraries/Frontend-Frameworks/Frontend-Frameworks Einführung.md",
+    "Frameworks & Libraries/Frontend-Frameworks",
+    "Frameworks & Libraries/Frontend-Framework",
+    "Grundlagen/CSS/CSS Framesworks.md",
+    "Grundlagen/HTML/HTML SEO.md",
+    "Grundlagen/HTML/HTML SEO.md.txt",
+    "Grundlagen/HTML/New Text Document.txt"
+  ]
+}

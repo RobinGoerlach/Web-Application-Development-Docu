@@ -5,8 +5,8 @@ markdown tutorial.
 
 **Obsidian**
 Obsidian is a powerful and versatile note-taking and knowledge management application, designed for individuals who want to organize information and develop a personal knowledge base. It's based on Markdown, a lightweight markup language, which allows users to create notes in plain text, making them easy to read and export.
-[https://obsidian.md/download]
-Key Features:
+[Obsidian Download](https://obsidian.md/download)
+Key Features
 Markdown Support: Obsidian uses Markdown to format text, which makes it simple to create and edit notes with headers, lists, links, and more.
 Bidirectional Links: One of Obsidian's standout features is its ability to create bidirectional links between notes. When you link one note to another, both notes recognize the connection, allowing you to build a network of interconnected information.
 Graph View: This feature visually represents all the notes and their relationships in a graph, helping you to see how your knowledge is connected and navigate through your notes more intuitively.
