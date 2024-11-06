@@ -56,7 +56,6 @@ Das Ziel von Git ist es, Entwicklern eine zuverlässige Methode zur Versionskont
 10. **`git push`**  
     Sendet die lokalen Änderungen in das Remote-Repository und aktualisiert dort den Code.
     
-
 ### Git-Workflow im Team
 
 Ein typischer Workflow sieht folgendermaßen aus:
@@ -74,6 +73,10 @@ Ein typischer Workflow sieht folgendermaßen aus:
 2. **Regelmäßige Commits**: Häufige Commits erleichtern das Nachvollziehen und Rückgängig-Machen von Änderungen.
 3. **Branches für spezifische Aufgaben**: Erstelle für jede Funktion oder jeden Bugfix einen eigenen Branch, um die Übersichtlichkeit zu bewahren.
 4. **Pull-Requests und Reviews**: Nutze Pull-Requests für die Zusammenarbeit und um sicherzustellen, dass Änderungen geprüft werden, bevor sie in den Hauptbranch kommen.
+
+### Ordnung im Git-Repository
+
+[[Die .gitignore-Datei]] ist ein praktisches Werkzeug, um Dateien und Verzeichnisse von der Versionierung in Git auszuschließen. Sie hilft Entwicklern, lokale Konfigurationen, sensible Daten und temporäre Dateien vom Repository fernzuhalten. Eine gut konfiguriere `.gitignore`-Datei sorgt dafür, dass nur die wirklich relevanten Dateien geteilt werden – ideal für eine saubere und sichere Zusammenarbeit im Team.
 
 ---
 

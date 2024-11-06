@@ -28,10 +28,10 @@ Die HTML-Dokumentation ist in verschiedene Bereiche unterteilt, um eine struktur
     - **[Sauberer und wartbarer Code](HTML%20Clean%20Code.md)**: Strukturierung und Dokumentation von HTML, Nutzung von Klassen und IDs zur besseren Organisation.
     - **[Cross-Browser-Kompatibilität](HTML%20Kompatibilität.md)**: Tipps zur Erstellung von HTML, das in verschiedenen Browsern konsistent dargestellt wird.
     
-6. **[HTML Tips & Tricks](HTML%20Tips%20&%20Tricks.md)**  
+6. **[HTML Tipps & Tricks](HTML%20Tipps%20&%20Tricks.md)**  
        Entdecken Sie praktische HTML-Techniken und wertvolle Kniffe, die Ihre Webentwicklung auf das nächste Level heben. Von semantischen Tags und Platzhaltern bis zu Formularvalidierungen und Lazy Loading – hier finden Sie eine Sammlung von Best Practices und weniger bekannten Funktionen, die Ihren HTML-Code effizienter, übersichtlicher und benutzerfreundlicher gestalten.
        
-7. **[Nützliche Links für HTML5-Entwicklung](HTML%20Nützliche%20Links.md)** 
+7. **[Nützliche Links für HTML5-Entwicklung](HTML%20Nützliches.md)** 
        Beschleunigen Sie Ihre HTML5-Kenntnisse mit den besten Online-Ressourcen! Hier finden Sie eine sorgfältig zusammengestellte Sammlung an Dokumentationen, Tutorials und Tools, die sowohl für Einsteiger als auch für erfahrene Entwickler wertvolle Unterstützung bieten. Entdecken Sie hilfreiche Webseiten, inspirierende Design-Ideen und unverzichtbare Werkzeuge für eine erfolgreiche HTML5-Entwicklung.
        
 8. **[HTML Cheat Sheets](HTML%20Cheat%20Sheet.md)** 

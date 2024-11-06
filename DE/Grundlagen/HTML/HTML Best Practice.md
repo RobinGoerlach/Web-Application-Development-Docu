@@ -1,4 +1,4 @@
-## ### Ein Leitfaden für sauberen und zugänglichen Code
+## Ein Leitfaden für sauberen und zugänglichen Code
 
 #### Einleitung
 

@@ -87,7 +87,7 @@ Entwickler, die Wert auf semantisch gut strukturiertes HTML legen und eine groß
 
 ## 6. Tailwind CSS
 
-**Tailwind CSS** unterscheidet sich von den anderen Frameworks durch seinen **Utility-First-Ansatz**. Statt vordefinierter Komponenten bietet es eine Sammlung von Utility-Klassen, mit denen sich Stile direkt im HTML anwenden lassen. Dadurch bleibt die Gestaltung sehr flexibel, und Entwickler haben volle Kontrolle über das Design. Tailwind CSS eignet sich besonders gut für individuelle Designs und benutzerdefinierte Komponenten.
+**Tailwind CSS** unterscheidet sich von den anderen Frameworks durch seinen **Utility-First-Ansatz**. Statt vordefinierter Komponenten bietet es eine Sammlung von Utility-Klassen, mit denen sich Stile direkt im HTML anwenden lassen. Dadurch bleibt die Gestaltung sehr flexibel, und Entwickler haben volle Kontrolle über das Design. Tailwind CSS eignet sich besonders gut für individuelle Designs und benutzerdefinierte Komponenten. Hier gibt es eine [[Einführung in Tailwind CSS]].
 
 ### Eigenschaften
 

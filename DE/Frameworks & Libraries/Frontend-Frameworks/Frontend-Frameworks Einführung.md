@@ -29,7 +29,7 @@ CSS-Frameworks und Styling-Bibliotheken vereinfachen das Design von Webseiten du
     Bootstrap ist eines der bekanntesten CSS-Frameworks und bietet eine breite Palette an vordefinierten UI-Komponenten, wie Buttons, Modale und Navigationsleisten. Es unterstützt responsive Designs, wodurch Webseiten auf verschiedenen Geräten gut dargestellt werden.
     
 2. **Tailwind CSS**  
-    Tailwind CSS ist ein Utility-First-Framework, das eine große Anzahl von Klassen bereitstellt, um Styles direkt im HTML hinzuzufügen. Dadurch ermöglicht Tailwind ein schnelles und flexibles Styling ohne das Schreiben zusätzlicher CSS-Dateien und ist besonders effizient für individuelle Designs.
+    Tailwind CSS ist ein Utility-First-Framework, das eine große Anzahl von Klassen bereitstellt, um Styles direkt im HTML hinzuzufügen. Dadurch ermöglicht Tailwind ein schnelles und flexibles Styling ohne das Schreiben zusätzlicher CSS-Dateien und ist besonders effizient für individuelle Designs. Hier gibt es eine Einführung in [[Einführung in Tailwind CSS]].
     
 3. **Materialize**  
     Materialize basiert auf dem Material-Design von Google und bietet eine einfache Möglichkeit, ansprechende und benutzerfreundliche Oberflächen zu erstellen. Es beinhaltet viele vorgefertigte UI-Komponenten, die sich an modernen Design-Standards orientieren.

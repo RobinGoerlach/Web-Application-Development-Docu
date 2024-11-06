@@ -27,7 +27,22 @@ Die JavaScript-Dokumentation ist in verschiedene Bereiche unterteilt, die grundl
     - **Callbacks und Promises**: Grundlagen der asynchronen Programmierung mit Callbacks und Promises.
     - **Async/Await**: Einführung in das `async`/`await`-Muster zur Vereinfachung der asynchronen Programmierung.
     - **Fetch API**: Arbeiten mit der Fetch API, um Daten von Servern abzurufen und HTTP-Requests zu senden.
-
+    
+6.  **Best Practices**    
+	    Entwickle robusten und wartbaren JavaScript-Code mit bewährten **[[JavaScript Best Practices]]!** In diesem Abschnitt erfährst du, wie du deinen Code effektiv strukturierst, Fehler vermeidest und deine Programmiertechniken optimierst. Von sauberer Code-Organisation bis zur effizienten Fehlerbehandlung – lerne die Prinzipien kennen, die professionelle JavaScript-Entwicklung ausmachen und deinen Code auf höchstem Niveau halten.
+	- **Code-Organisation**: Wie man Module und Funktionen sinnvoll strukturiert, um wartbaren und lesbaren Code zu schreiben.
+    - **Verwendung von `const` und `let` statt `var`**: Die Vorteile von blockbasiertem Scoping und Konstanz.
+    - **Fehlerbehandlung und Debugging**: Effektive Techniken zur Fehlervermeidung und -behebung.
+    
+7. **Tipps & Tricks**    
+		Meistere mit cleveren **[[JavaScript Tipps & Tricks]]!** In diesem Abschnitt findest du praxiserprobte Kurzschreibweisen, effiziente Code-Muster und nützliche Kniffe, die deine Programmierarbeit einfacher und schneller machen. Entdecke bewährte Methoden und geheime Tricks, um deinen JavaScript-Code auf das nächste Level zu bringen – für eleganten, sauberen und performanten Code, der beeindruckt.
+    
+8. **Nützliche Links**    
+	    Entdecke mit **[[JavaScript nüztlichen Links]]** auf die beste Weise mit einer Sammlung ausgewählter Ressourcen! Dieser Abschnitt bietet dir die besten Online-Lernquellen, von grundlegenden Einführungen bis zu vertiefenden Tutorials und umfassenden Nachschlagewerken. Finde hilfreiche Blogs, interaktive Plattformen und fortgeschrittene Lernmaterialien, die dir helfen, JavaScript in all seinen Facetten zu verstehen und professionell anzuwenden.
+	    
+9. **JavaScript Cheat Sheet**    
+    - Ein praktische **[[JavaScrip Cheat Sheet]]** mit oft verwendeten Syntax-Elementen, häufigen Funktionen und Operatoren zur schnellen Referenzierung.
+    
 ## Resourcen im Netz
 
 ### Englisch

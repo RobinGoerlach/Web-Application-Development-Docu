@@ -23,11 +23,23 @@ Die CSS-Dokumentation in diesem Notizbuch ist in folgende Bereiche unterteilt:
     - **[Media Queries](CSS%20Media%20Queries.md)**: Nutzung von Media Queries zur Anpassung des Layouts für verschiedene Bildschirmgrößen.
     - **[Einheitensystem](CSS%20Einheitensystem.md)**: Verwendung flexibler Einheiten wie Prozent, rem, em und vw/vh für responsives Design.
     
-5. **Praktische Anwendungen und Best Practices**    
+5. **Praktische Anwendungen**    
     - **[CSS-Naming-Conventions](CSS%20Naming%20Conventions.md)**: Techniken wie BEM (Block, Element, Modifier) zur Strukturierung von CSS-Klassen.
     - **[Performance](CSS%20Performance.md) und [Optimierung](CSS%20Optimierung.md)**: Tipps zur Minimierung der Ladezeiten und Optimierung von CSS.
     - **[CSS in Projekten](CSS%20in%20Projekten.md) und [Frameworks](CSS%20Framesworks.md)**: Einsatz von CSS in Projekten und Integration in Frameworks wie Tailwind CSS.
 
+6. **Best Practices in CSS**
+	   **[[CSS Best Practices]]** ist eine Anleitung effizientes und sauberes CSS ist der Schlüssel zu einer wartbaren und skalierbaren Webseite. In diesem Abschnitt lernst du, wie du durch eine klare Struktur und benutzerfreundliche Klassennamen die Lesbarkeit und Wiederverwendbarkeit deines Codes verbessern kannst. Von der sinnvollen Verwendung des Box-Modells bis hin zu Layout-Techniken mit Flexbox und Grid bieten dir diese Best Practices eine solide Grundlage für professionelle Projekte.
+
+7. **Tipps und Tricks für CSS**
+	   **[[CSS Tipps & Tricks]]** bietet viele versteckte Schätze und praktische Tricks, um kreative Designs zu entwickeln. Hier findest du hilfreiche Kniffe wie den Einsatz von CSS-Variablen, den richtigen Umgang mit Media Queries und innovative Anwendungen für Schatten und Transparenz. Perfekt für alle, die ihre CSS-Kenntnisse erweitern und auf dem neuesten Stand bleiben wollen!
+
+8.  **Nützliche CSS-Links und Tutorials** 
+	   **[[CSS nützliche Links]]** ist eine Sammung von Links auf die bestmögliche Weise mit handverlesenen Ressourcen und Tutorials anbietet! Dieser Abschnitt bietet dir eine Sammlung der besten Online-Lernquellen, von Einsteiger-Tutorials bis hin zu fortgeschrittenen Workshops. Entdecke nützliche Blogs, interaktive Plattformen und Tutorials, die dir helfen, CSS in der Tiefe zu verstehen und anzuwenden.
+
+9. **CSS Cheat Sheets**
+	   Für schnellen Zugriff auf die wichtigsten CSS-Befehle und -Eigenschaften ist ein **[[CSS Cheat Sheet]]** unerlässlich. Dieser Abschnitt enthält praktische Übersichten zu den häufig verwendeten CSS-Elementen, Layout-Eigenschaften und Einheiten. Ideal für das Arbeiten im Alltag und um immer wiederkehrende CSS-Konzepte im Blick zu behalten!
+	
 ## Ziel dieser CSS-Dokumentation
 
 Die Dokumentation soll als umfassende Ressource dienen, um die Grundlagen von CSS zu erlernen und fortgeschrittene Techniken zu verstehen. Sie soll darüber hinaus Best Practices und aktuelle Standards abdecken, die für die Erstellung moderner, optisch ansprechender Webseiten erforderlich sind.

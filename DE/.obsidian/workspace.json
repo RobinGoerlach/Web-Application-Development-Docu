@@ -6,15 +6,37 @@
       {
         "id": "0c74655b72a819c0",
         "type": "tabs",
+        "dimension": 46.38324873096447,
         "children": [
           {
             "id": "2d51f6bdbe4d29e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Grundlagen/JavaScript/JavaScript Überblick.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "JavaScript Überblick"
+            }
+          }
+        ]
+      },
+      {
+        "id": "62e269770765e27e",
+        "type": "tabs",
+        "dimension": 53.61675126903553,
+        "children": [
+          {
+            "id": "7149e1e9a2bdd9c7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -160,41 +182,41 @@
   },
   "active": "2d51f6bdbe4d29e1",
   "lastOpenFiles": [
-    "Grundlagen/HTML/HTML Cheat Sheet.md",
-    "Grundlagen/HTML/HTML Überblick.md",
-    "Grundlagen/HTML/HTML Tips & Tricks.md",
-    "Grundlagen/HTML/HTML Nützliche Links.md",
-    "Grundlagen/HTML/HTML Best Practice.md",
-    "Grundlagen/HTML/HTML Dokumentstruktur.md",
-    "Grundlagen/HTML/HTML Clean Code.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Version Control/Git - Version Control.md",
-    "README.md",
-    "DevDoc.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Einführung - Tools für die Entwicklung und Zusammenarbeit.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Version Control",
+    "Grundlagen/JavaScript/JavaScrip Cheat Sheet.md",
+    "Grundlagen/JavaScript/JavaScript Überblick.md",
+    "Grundlagen/JavaScript/JavaScript Tipps & Tricks.md",
+    "Grundlagen/JavaScript/JavaScript nüztlichen Links.md",
+    "Grundlagen/CSS/CSS Tipps & Tricks.md",
+    "Grundlagen/HTML/HTML Tipps & Tricks.md",
+    "Grundlagen/CSS/CSS nützliche Links.md",
+    "Grundlagen/CSS/CSS Überblick.md",
+    "Grundlagen/CSS/CSS Cheat Sheet.md",
+    "Grundlagen/CSS/CSS Best Practices.md",
+    "Resourcen/Font Awesome.md",
+    "Grundlagen/HTML/HTML Nützliches.md",
     "Fullstack Web Developer.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Entwicklungsumgebungen.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Version Control/Die .gitignore-Datei.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Version Control/Git - Version Control.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Version Control/GitHub.md",
+    "Grundlagen/Grundlagen Einführung.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Visual Studio Code Erweiterungen.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Erweiterungen.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Visual Studio Code.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Beliebte VS Code-Themes.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Einführung - Tools für die Entwicklung und Zusammenarbeit.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung",
+    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/API-Test Tools/API-Test-Tools.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/Softwaretest.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/API-Test Tools/API-Testing-Tools.md",
+    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/API-Test Tools",
+    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest",
+    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge",
+    "Resourcen",
+    "Tools für die Entwicklung und Zusammenarbeit/Version Control",
     "Tools für die Entwicklung und Zusammenarbeit",
-    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Einführung in Tailwind CSS.md",
-    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Grid-Layout mit Tailwind.md",
-    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Flexbox-Layout mit Tailwind.md",
-    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Farbgestaltung mit Tailwind CSS.md",
-    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Textgestaltung mit Tailwind CSS.md",
-    "Frameworks & Libraries/Frameworks und Bibliotheken Einführung.md",
     "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind",
     "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks",
-    "Grundlagen/Grundlagen Einführung.md",
-    "Frameworks & Bibliotheken Einführung/Frameworks.md",
-    "Grundlagen/JavaScript/JavaScript Überblick.md",
-    "Grundlagen/CSS/CSS Überblick.md",
-    "Frameworks und Bibliotheken Einführung/Frameworks.md",
-    "Frameworks & Bibliotheken Einführung",
-    "Frameworks und Bibliotheken Einführung",
-    "Frameworks & Libraries/Frontend-Frameworks/Frontend-Frameworks Einführung.md",
-    "Frameworks & Libraries/Frontend-Frameworks",
-    "Frameworks & Libraries/Frontend-Framework",
-    "Grundlagen/CSS/CSS Framesworks.md",
-    "Grundlagen/HTML/HTML SEO.md",
-    "Grundlagen/HTML/HTML SEO.md.txt",
-    "Grundlagen/HTML/New Text Document.txt"
+    "Frameworks & Bibliotheken Einführung"
   ]
 }
