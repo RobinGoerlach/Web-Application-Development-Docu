@@ -48,7 +48,7 @@ Ein guter Testprozess erfordert eine durchdachte Teststrategie. Diese definiert 
 
 #### **6. Spezielle Softwaretests**
 
-**[[API-Test-Tools]]** konzentrieren sich auf das Testen von Programmierschnittstellen (APIs) und sind besonders wichtig in modernen Softwareprojekten, die auf Microservices, externe Integrationen oder Cloud-basierte Systeme setzen. API-Tests stellen sicher, dass die Kommunikation zwischen verschiedenen Softwarekomponenten korrekt und zuverlässig funktioniert. Die Tests prüfen die Antworten auf API-Anfragen, die Datenintegrität und die Einhaltung von Protokollen.
+**[API-Test-Tools](API-Test-Tools.md)** konzentrieren sich auf das Testen von Programmierschnittstellen (APIs) und sind besonders wichtig in modernen Softwareprojekten, die auf Microservices, externe Integrationen oder Cloud-basierte Systeme setzen. API-Tests stellen sicher, dass die Kommunikation zwischen verschiedenen Softwarekomponenten korrekt und zuverlässig funktioniert. Die Tests prüfen die Antworten auf API-Anfragen, die Datenintegrität und die Einhaltung von Protokollen.
 
 - **Ziele**: Sicherstellen, dass APIs wie erwartet reagieren, Daten korrekt übergeben und Sicherheitsanforderungen erfüllen.
 - **Testmethoden**: Funktionale Tests (Überprüfung der API-Endpunkte), Leistungstests (Überprüfung der Antwortzeiten und Skalierbarkeit) und Sicherheitstests (Erkennen potenzieller Schwachstellen).

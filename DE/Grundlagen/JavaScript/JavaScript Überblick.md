@@ -4,44 +4,53 @@
 
 Die JavaScript-Dokumentation ist in verschiedene Bereiche unterteilt, die grundlegende und fortgeschrittene Konzepte der Sprache abdecken:
 
-1. **Grundlagen der JavaScript-Programmierung**    
+1. **Grundlagen der JavaScript-Programmierung** 
     - **[Syntax](JavaScript%20Syntax.md) und [Datentypen](JavaScript%20Datentypen.md)**: JavaScript-Syntax und Datentypen wie `string`, `number`, `boolean`, `null`, `undefined` und `object`.
     - **[Variablen](Javascript%20Variablen.md) und [Operatoren](Javascript%20Operatoren.md)**: Deklaration und Initialisierung von Variablen (`let`, `const`, `var`) sowie mathematische und logische Operatoren.
     - **[Kontrollstrukturen](Javascript%20Kontrollstrukturen.md)**: Kontrollstrukturen wie `if`, `else`, `switch`, Schleifen (`for`, `while`, `do-while`).
     
-2. **Funktionen und Scoping**    
+2. **Funktionen und Scoping** 
     - **[Funktionen](Javascript%20Funktionen.md)**: Definition und Aufruf von Funktionen, Unterschiede zwischen regulären Funktionen, Pfeilfunktionen (`=>`) und anonymen Funktionen.
     - **[Scope](Javascript%20Scope.md) und [Closures](Javascript%20Closures)**: Erklärung von Scoping in JavaScript, Funktions-Scope und Block-Scope, sowie das Konzept der Closures.
     
-3. **Objektorientierung und Arrays**    
+3. **Objektorientierung und Arrays** 
     - **[Objekte](Javascript%20Objekte.md) und [Arrays](Javascript%20Arrays.md)**: Erstellen und Verwenden von Objekten und Arrays, Array-Methoden wie `map`, `filter`, `reduce`.
     - **[Klassen](Javascript%20Klassen.md) und [Prototypen](Javascript%20Prototypen.md)**: Einführung in ES6-Klassen, das Prototypen-basiertes Vererbungssystem von JavaScript.
     - **[Destrukturierung](Javascript%20Destrukturierung.md)**: Nutzung der Destrukturierung, um auf Daten innerhalb von Objekten und Arrays zuzugreifen.
     
-4. **DOM-Manipulation und Events**    
-    - **Document Object Model (DOM)**: Grundlagen zur Manipulation des HTML-DOMs und Zugriff auf HTML-Elemente mit `document.querySelector`, `getElementById` und mehr.
-    - **Event Handling**: Einführung in Event-Listener und Ereignisverarbeitung wie `click`, `input` und `submit`.
-    - **Formulare und Benutzerinteraktionen**: Arbeit mit Formularen, Validierung und Reaktion auf Benutzereingaben.
+4. **DOM-Manipulation und Events** 
+    - **[Document Object Model](Document%20Object%20Model.md) (DOM)**: Grundlagen zur Manipulation des HTML-DOMs und Zugriff auf HTML-Elemente mit `document.querySelector`, `getElementById` und mehr.
+    - **[Event Handling](Events.md)**: Einführung in Event-Listener und Ereignisverarbeitung wie `click`, `input` und `submit`.
+    - **[Formulare mit JavaScript nutzen](Formulare%20mit%20JavaScript%20nutzen.md) und [Benutzerinteraktionen](Benutzerinteraktionen.md)**: Arbeit mit Formularen, Validierung und Reaktion auf Benutzereingaben.
     
-5. **Asynchrone Programmierung**    
+5. **[Asynchrone Programmierung](Asynchrone%20Programmierung.md)** 
     - **Callbacks und Promises**: Grundlagen der asynchronen Programmierung mit Callbacks und Promises.
     - **Async/Await**: Einführung in das `async`/`await`-Muster zur Vereinfachung der asynchronen Programmierung.
     - **Fetch API**: Arbeiten mit der Fetch API, um Daten von Servern abzurufen und HTTP-Requests zu senden.
     
-6.  **Best Practices**    
-	    Entwickle robusten und wartbaren JavaScript-Code mit bewährten **[[JavaScript Best Practices]]!** In diesem Abschnitt erfährst du, wie du deinen Code effektiv strukturierst, Fehler vermeidest und deine Programmiertechniken optimierst. Von sauberer Code-Organisation bis zur effizienten Fehlerbehandlung – lerne die Prinzipien kennen, die professionelle JavaScript-Entwicklung ausmachen und deinen Code auf höchstem Niveau halten.
-	- **Code-Organisation**: Wie man Module und Funktionen sinnvoll strukturiert, um wartbaren und lesbaren Code zu schreiben.
-    - **Verwendung von `const` und `let` statt `var`**: Die Vorteile von blockbasiertem Scoping und Konstanz.
-    - **Fehlerbehandlung und Debugging**: Effektive Techniken zur Fehlervermeidung und -behebung.
+6. **Web APIs**
+    - **[Einführung in Web APIs](Web%20APIs%20Einf%C3%BChrung.md)**: Überblick über die wichtigsten Browser-APIs und ihre Einsatzmöglichkeiten.
+    - **[Fetch API](Fetch%20API.md)**: Abrufen von Daten und Senden von HTTP-Requests.
+    - **[Geolocation API](Geolocation%20API.md)**: Zugriff auf die geografische Position des Benutzers.
+    - **[Canvas API](Canvas%20API.md)**: Erstellung und Bearbeitung von 2D-Grafiken.
+    - **[Web Storage API](Web%20Storage%20API.md)**: Speichern von Daten im Browser.
+    - **[Notification API](Notification%20API.md)**: Senden von Benachrichtigungen an den Benutzer.
+    - **Weitere APIs**: Eine Sammlung zusätzlicher APIs, die moderne Webanwendungen ermöglichen, wie WebRTC, File API oder Clipboard API.
     
-7. **Tipps & Tricks**    
-		Meistere mit cleveren **[[JavaScript Tipps & Tricks]]!** In diesem Abschnitt findest du praxiserprobte Kurzschreibweisen, effiziente Code-Muster und nützliche Kniffe, die deine Programmierarbeit einfacher und schneller machen. Entdecke bewährte Methoden und geheime Tricks, um deinen JavaScript-Code auf das nächste Level zu bringen – für eleganten, sauberen und performanten Code, der beeindruckt.
+7.  **Best Practices** 
+	    Entwickle robusten und wartbaren JavaScript-Code mit bewährten **[JavaScript Best Practices](JavaScript%20Best%20Practices.md)!** In diesem Abschnitt erfährst du, wie du deinen Code effektiv strukturierst, Fehler vermeidest und deine Programmiertechniken optimierst. Von sauberer Code-Organisation bis zur effizienten Fehlerbehandlung – lerne die Prinzipien kennen, die professionelle JavaScript-Entwicklung ausmachen und deinen Code auf höchstem Niveau halten.
+	- **[Code-Organisation](Code-Organisation.md)**: Wie man Module und Funktionen sinnvoll strukturiert, um wartbaren und lesbaren Code zu schreiben.
+    - **[Verwendung von `const` und `let` statt `var`](Scoping%20und%20Konstanz.md)**: Die Vorteile von blockbasiertem Scoping und Konstanz.
+    - **[Fehlerbehandlung und Debugging](Fehlerbehandlung%20und%20Debugging.md)**: Effektive Techniken zur Fehlervermeidung und -behebung.
     
-8. **Nützliche Links**    
-	    Entdecke mit **[[JavaScript nüztlichen Links]]** auf die beste Weise mit einer Sammlung ausgewählter Ressourcen! Dieser Abschnitt bietet dir die besten Online-Lernquellen, von grundlegenden Einführungen bis zu vertiefenden Tutorials und umfassenden Nachschlagewerken. Finde hilfreiche Blogs, interaktive Plattformen und fortgeschrittene Lernmaterialien, die dir helfen, JavaScript in all seinen Facetten zu verstehen und professionell anzuwenden.
+8. **Tipps & Tricks** 
+		Meistere mit cleveren **[JavaScript Tipps & Tricks](JavaScript%20Tipps%20&%20Tricks.md)!** In diesem Abschnitt findest du praxiserprobte Kurzschreibweisen, effiziente Code-Muster und nützliche Kniffe, die deine Programmierarbeit einfacher und schneller machen. Entdecke bewährte Methoden und geheime Tricks, um deinen JavaScript-Code auf das nächste Level zu bringen – für eleganten, sauberen und performanten Code, der beeindruckt.
+    
+9. **Nützliche Links** 
+	    Entdecke mit **[JavaScript nüztlichen Links](JavaScript%20nüztlichen%20Links.md)** auf die beste Weise mit einer Sammlung ausgewählter Ressourcen! Dieser Abschnitt bietet dir die besten Online-Lernquellen, von grundlegenden Einführungen bis zu vertiefenden Tutorials und umfassenden Nachschlagewerken. Finde hilfreiche Blogs, interaktive Plattformen und fortgeschrittene Lernmaterialien, die dir helfen, JavaScript in all seinen Facetten zu verstehen und professionell anzuwenden.
 	    
-9. **JavaScript Cheat Sheet**    
-    - Ein praktische **[[JavaScrip Cheat Sheet]]** mit oft verwendeten Syntax-Elementen, häufigen Funktionen und Operatoren zur schnellen Referenzierung.
+10. **JavaScript Cheat Sheet** 
+    - Ein praktische **[JavaScrip Cheat Sheet](JavaScrip%20Cheat%20Sheet.md)** mit oft verwendeten Syntax-Elementen, häufigen Funktionen und Operatoren zur schnellen Referenzierung.
     
 ## Resourcen im Netz
 

@@ -6,7 +6,7 @@ Die Weiterbildung umfasst eine Vielzahl von Technologien und Werkzeugen, die fü
 1. **Frontend-Technologien**    
     - **[HTML](Grundlagen/HTML/HTML%20Überblick.md) & [CSS](Grundlagen/CSS/CSS%20Überblick.md):** Grundgerüst und Gestaltung von Webseiten
     - **[JavaScript](Grundlagen/JavaScript/JavaScript%20Überblick.md):** Interaktivität und Logik im Browser
-    - **[Frameworks und Bibliotheken](Frameworks%20und%20Bibliotheken%20Einführung.md)** in der modernen Webentwicklung bieten Frameworks und Bibliotheken unverzichtbare Werkzeuge, um effizienter zu arbeiten. **Tailwind CSS:** ermöglicht z.B. schnelles und effizientes Styling ohne eigenes CSS schreiben zu müssen.
+    - **[Frameworks und Bibliotheken](Frameworks%20und%20Bibliotheken%20Einführung.md)** in der modernen Webentwicklung bieten Frameworks und Bibliotheken unverzichtbare Werkzeuge, um effizienter zu arbeiten. **[Tailwind CSS](Frameworks%20&%20Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Einführung%20in%20Tailwind%20CSS.md):** ermöglicht z.B. schnelles und effizientes Styling ohne eigenes CSS schreiben zu müssen.
 
 2. **Backend-Technologien**    
     - **Node.js:** Serverseitige JavaScript-Laufzeitumgebung zur Erstellung von Backends und APIs

@@ -7,17 +7,17 @@ Dieser Bereich soll ein umfassendes Verständnis für die Werkzeuge schaffen, di
 
 ### Überblick über die behandelten Werkzeuge
 
-1. **IDE (Integrierte [[Entwicklungsumgebungen]])**  
-    [[Visual Studio Code]] ist eine flexible und leicht erweiterbare Entwicklungsumgebung, die mit Funktionen wie Autovervollständigung, Syntax-Highlighting und Debugging die Programmierung vereinfacht. Mit einer großen Auswahl an Erweiterungen und Anpassungsmöglichkeiten eignet es sich sowohl für Frontend- als auch für Backend-Entwicklung.
+1. **IDE (Integrierte [Entwicklungsumgebungen](Entwicklungsumgebungen.md))** 
+    [Visual Studio Code](Visual%20Studio%20Code.md) ist eine flexible und leicht erweiterbare Entwicklungsumgebung, die mit Funktionen wie Autovervollständigung, Syntax-Highlighting und Debugging die Programmierung vereinfacht. Mit einer großen Auswahl an Erweiterungen und Anpassungsmöglichkeiten eignet es sich sowohl für Frontend- als auch für Backend-Entwicklung.
     
-2. **Code Versions Control System**  
-    Das [[Git - Version Control]] Programm ist ein verteiltes Versionskontrollsystem, das Entwicklern ermöglicht, den Quellcode zu verwalten, Änderungen nachzuverfolgen und gemeinsam an Projekten zu arbeiten. [[GitHub]] erweitert die Möglichkeiten von Git durch eine cloudbasierte Plattform für die Zusammenarbeit, die Code-Review-Workflows, Issue-Tracking und die Verwaltung von Repositories bietet. Dies ist besonders hilfreich für das Arbeiten im Team und das Open-Source-Engagement.
+2. **[Versions Control Systeme](Versionskontrolle.md) für Code** 
+    Das [Git - Version Control](Git%20-%20Version%20Control.md) Programm ist ein verteiltes Versionskontrollsystem, das Entwicklern ermöglicht, den Quellcode zu verwalten, Änderungen nachzuverfolgen und gemeinsam an Projekten zu arbeiten. [GitHub](GitHub.md) erweitert die Möglichkeiten von Git durch eine cloudbasierte Plattform für die Zusammenarbeit, die Code-Review-Workflows, Issue-Tracking und die Verwaltung von Repositories bietet. Dies ist besonders hilfreich für das Arbeiten im Team und das Open-Source-Engagement.
     
 3.  **Build-Tools** 
     Build-Tools automatisieren den Erstellungsprozess von Software. Sie übersetzen den Quellcode in ausführbare Programme, führen Tests durch und verwalten Abhängigkeiten. Die Nutzung von Build-Tools reduziert manuelle Fehler und spart Zeit. Maven, Gradle, Webpack, npm für JavaScript-Umgebungen. Notwendig, wenn der Code in eine bestimmte Zielumgebung gebracht werden muss (z. B. von Quellcode zu ausführbarer Software) und um große Projekte mit vielen Abhängigkeiten zu verwalten.
       
 4. **Testing- und Debugging-Tools** 
-    Diese Werkzeuge unterstützen [[Softwaretest]] und Debuggen von Software. Sie helfen Entwicklern, Fehler frühzeitig zu finden und zu beheben, und bieten oft Automatisierungsmöglichkeiten für Unit-, Integration- und Performance-Tests.  Selenium für UI-Tests, JUnit für Unit-Tests in Java, Chrome DevTools für Web-Debugging. Diese Tools sind ein wichtiger Bestandteil der Qualitätssicherung und notwendig, um stabile, fehlerfreie Software bereitzustellen.
+    Diese Werkzeuge unterstützen [Softwaretest](Softwaretest.md) und Debuggen von Software. Sie helfen Entwicklern, Fehler frühzeitig zu finden und zu beheben, und bieten oft Automatisierungsmöglichkeiten für Unit-, Integration- und Performance-Tests.  Selenium für UI-Tests, JUnit für Unit-Tests in Java, Chrome DevTools für Web-Debugging. Diese Tools sind ein wichtiger Bestandteil der Qualitätssicherung und notwendig, um stabile, fehlerfreie Software bereitzustellen.
        
 5. **Deployment- und Container-Tools** 
 	Deployment-Tools ermöglichen die Bereitstellung der Software in der Zielumgebung (z. B. Produktions- oder Testumgebung). Container-Tools erleichtern es, Anwendungen in unabhängigen Containern zu verpacken, die überall laufen können. Docker für Containerisierung, Kubernetes für Container-Orchestrierung, Jenkins für CI/CD (Continuous Integration/Continuous Deployment). Diese Werkzeuge sind besonders wichtig für moderne, cloudbasierte Anwendungen, die in flexiblen und skalierbaren Umgebungen bereitgestellt werden müssen.
@@ -26,13 +26,13 @@ Dieser Bereich soll ein umfassendes Verständnis für die Werkzeuge schaffen, di
     Diese Werkzeuge unterstützen Teams bei der Planung und Organisation von Projekten. Sie ermöglichen eine zentrale Verwaltung von Aufgaben, Terminen und Ressourcen, oft in Echtzeit und gemeinsam. Jira, Trello, Asana, Confluence. Unerlässlich für Teamarbeit und Projektmanagement, da sie helfen, Aufgaben zu verteilen, Fortschritte nachzuverfolgen und die gesamte Projektkommunikation an einem Ort zu bündeln. 
     Trello ist ein einfach zu bedienendes Projektmanagement-Tool, das auf dem Kanban-Prinzip basiert. Mit seinen Boards, Listen und Karten hilft es Teams dabei, Aufgaben zu organisieren, Verantwortlichkeiten zuzuweisen und den Fortschritt übersichtlich zu dokumentieren. Es eignet sich hervorragend für die agile Arbeitsweise und sorgt für Transparenz und klare Kommunikation im Team.
     
-7. **Kommunikation und Zusammenarbeit**  
+7. **Kommunikation und Zusammenarbeit** 
     Slack ist eine Kommunikationsplattform, die Echtzeit-Chat, Dateifreigabe und Integrationen mit anderen Tools (z.B. Trello, GitHub) bietet. Mit Kanälen für unterschiedliche Themen und Projekten können Teams ihre Kommunikation effizient organisieren und den Informationsfluss verbessern.
     
-8. **Code-Formatierung und -Qualität**  
+8. **Code-Formatierung und -Qualität** 
     Prettier und ESLint sind zwei Tools, die den Code konsistent und sauber halten. Prettier ist ein Code-Formatter, der automatisch eine einheitliche Code-Formatierung erzwingt, während ESLint Regeln für die Code-Qualität festlegt und dabei hilft, potenzielle Fehler frühzeitig zu identifizieren. Beide Tools tragen zur Lesbarkeit und Wartbarkeit des Codes bei.
     
-9. **Dokumentation und Wissenstransfer**  
+9. **Dokumentation und Wissenstransfer** 
     Die Tools Obsidian und Notion unterstützen bei der Organisation und Dokumentation von Projekten. Während Obsidian auf verlinkte Notizen und Markdown-Dateien fokussiert ist, bietet Notion eine flexiblere Plattform für Dokumentation, Projektmanagement und kollaboratives Arbeiten. Beide sind wertvolle Hilfsmittel für das Wissensmanagement und die Dokumentation von Entwicklungsprozessen.
     
 ### Struktur dieses Bereichs
