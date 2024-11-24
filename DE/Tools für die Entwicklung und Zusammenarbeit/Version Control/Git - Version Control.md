@@ -1,6 +1,6 @@
 ## Einführung – Git als Versionskontrollsystem
 
-Git ist ein verteiltes Versionskontrollsystem (VCS), das Entwicklern hilft, den Quellcode zu verwalten und Änderungen nachzuverfolgen. Es wurde ursprünglich von Linus Torvalds entwickelt, um den Code des Linux-Kernels effizient zu verwalten, und hat sich schnell zum Standardtool in der Softwareentwicklung etabliert. Mit Git können Teams unabhängig voneinander arbeiten und den Code ohne Gefahr von Datenverlust oder Konflikten gemeinsam bearbeiten.
+Git ist ein verteiltes System für  [Versionskontrolle](Versionskontrolle.md) (VCS), das Entwicklern hilft, den Quellcode zu verwalten und Änderungen nachzuverfolgen. Es wurde ursprünglich von Linus Torvalds entwickelt, um den Code des Linux-Kernels effizient zu verwalten, und hat sich schnell zum Standardtool in der Softwareentwicklung etabliert. Mit Git können Teams unabhängig voneinander arbeiten und den Code ohne Gefahr von Datenverlust oder Konflikten gemeinsam bearbeiten.
 
 ### Ziel und Bedeutung von Git
 
@@ -8,52 +8,52 @@ Das Ziel von Git ist es, Entwicklern eine zuverlässige Methode zur Versionskont
 
 ### Grundlegende Konzepte in Git
 
-1. **Repository (Repo)**  
+1. **Repository (Repo)** 
     Ein Repository ist das zentrale Projektverzeichnis, das alle Dateien und Änderungen speichert. Es gibt zwei Haupttypen: **lokale Repositories** (auf deinem Rechner) und **Remote-Repositories** (in der Cloud oder auf einem Server wie GitHub).
     
-2. **Branching und Merging**  
+2. **Branching und Merging** 
     Git ermöglicht es, mehrere Entwicklungszweige (Branches) innerhalb eines Repositories zu erstellen. Der Hauptbranch ist normalerweise der „**main**“- oder „**master**“-Branch. Neben dem Hauptbranch können Entwickler neue Branches für Features, Bugfixes oder Experimente erstellen und diese später wieder zusammenführen (mergen), wenn die Entwicklung abgeschlossen ist.
     
-3. **Commit**  
+3. **Commit** 
     Ein Commit speichert eine bestimmte Version des Projekts und dokumentiert, was geändert wurde. Jeder Commit hat eine einzigartige ID, die zur Rückverfolgung und Wiederherstellung früherer Versionen dient.
     
-4. **Stage**  
+4. **Stage** 
     Die Staging-Area in Git ist eine Art Zwischenspeicher, in dem Änderungen vorbereitet werden, bevor sie endgültig durch einen Commit festgehalten werden. Mit dem **add**-Befehl können Änderungen zur Staging-Area hinzugefügt werden.
     
-5. **Remote**  
+5. **Remote** 
     Ein Remote-Repository ist eine externe Kopie des Projekts, die z. B. auf Plattformen wie GitHub oder GitLab gespeichert ist. Remote-Repositories ermöglichen es, den Code online zu teilen und im Team zu kollaborieren.
     
 
 ### Wichtige Git-Befehle
 
-1. **`git init`**  
+1. **`git init`** 
     Erstellt ein neues lokales Repository in dem aktuellen Verzeichnis.
     
-2. **`git clone [URL]`**  
+2. **`git clone [URL]`** 
     Erstellt eine Kopie (Klon) eines Remote-Repositories auf dem lokalen Rechner.
     
-3. **`git add [Datei]`** oder **`git add .`**  
+3. **`git add [Datei]`** oder **`git add .`** 
     Fügt Dateien zur Staging-Area hinzu. Mit **`.`** werden alle geänderten Dateien hinzugefügt.
     
-4. **`git commit -m "Nachricht"`**  
+4. **`git commit -m "Nachricht"`** 
     Speichert die Änderungen in der Staging-Area und versieht sie mit einer aussagekräftigen Nachricht.
     
-5. **`git status`**  
+5. **`git status`** 
     Zeigt den Status des Repositories an und listet geänderte Dateien und den Zustand der Staging-Area auf.
     
-6. **`git branch`**  
+6. **`git branch`** 
     Listet alle Branches im Repository auf. Mit **`git branch [Branch-Name]`** kann ein neuer Branch erstellt werden.
     
-7. **`git checkout [Branch-Name]`**  
+7. **`git checkout [Branch-Name]`** 
     Wechselt zu einem anderen Branch.
     
-8. **`git merge [Branch-Name]`**  
+8. **`git merge [Branch-Name]`** 
     Führt den angegebenen Branch mit dem aktuellen Branch zusammen. Dies wird häufig verwendet, um neue Features in den Hauptbranch zu integrieren.
     
-9. **`git pull`**  
+9. **`git pull`** 
     Aktualisiert das lokale Repository mit den neuesten Änderungen vom Remote-Repository.
     
-10. **`git push`**  
+10. **`git push`** 
     Sendet die lokalen Änderungen in das Remote-Repository und aktualisiert dort den Code.
     
 ### Git-Workflow im Team
@@ -76,7 +76,7 @@ Ein typischer Workflow sieht folgendermaßen aus:
 
 ### Ordnung im Git-Repository
 
-[[Die .gitignore-Datei]] ist ein praktisches Werkzeug, um Dateien und Verzeichnisse von der Versionierung in Git auszuschließen. Sie hilft Entwicklern, lokale Konfigurationen, sensible Daten und temporäre Dateien vom Repository fernzuhalten. Eine gut konfiguriere `.gitignore`-Datei sorgt dafür, dass nur die wirklich relevanten Dateien geteilt werden – ideal für eine saubere und sichere Zusammenarbeit im Team.
+[Die .gitignore-Datei](Die%20.gitignore-Datei.md) ist ein praktisches Werkzeug, um Dateien und Verzeichnisse von der Versionierung in Git auszuschließen. Sie hilft Entwicklern, lokale Konfigurationen, sensible Daten und temporäre Dateien vom Repository fernzuhalten. Eine gut konfiguriere `.gitignore`-Datei sorgt dafür, dass nur die wirklich relevanten Dateien geteilt werden – ideal für eine saubere und sichere Zusammenarbeit im Team.
 
 ---
 

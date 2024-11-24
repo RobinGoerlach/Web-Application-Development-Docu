@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0c74655b72a819c0",
+        "id": "62e269770765e27e",
         "type": "tabs",
-        "dimension": 46.38324873096447,
         "children": [
           {
-            "id": "2d51f6bdbe4d29e1",
+            "id": "51511e11aa178954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grundlagen/JavaScript/JavaScript Überblick.md",
+                "file": "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/Einführung in React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Überblick"
+              "title": "Einführung in React"
             }
           }
         ]
       },
       {
-        "id": "62e269770765e27e",
+        "id": "a865b12749d751a9",
         "type": "tabs",
-        "dimension": 53.61675126903553,
         "children": [
           {
-            "id": "7149e1e9a2bdd9c7",
+            "id": "bb2197f17baab0ed",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -95,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5
   },
   "right": {
     "id": "d4ae8ae5d4d1225b",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grundlagen/HTML/HTML Überblick.md",
+                "file": "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/Einführung in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTML Überblick"
+              "title": "Backlinks for Einführung in React"
             }
           },
           {
@@ -130,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack Web Developer.md",
+                "file": "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/Einführung in React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fullstack Web Developer"
+              "title": "Outgoing links from Einführung in React"
             }
           },
           {
@@ -157,18 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullstack Web Developer.md"
+                "file": "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/Einführung in React.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fullstack Web Developer"
+              "title": "Outline of Einführung in React"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 537.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,43 +177,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d51f6bdbe4d29e1",
+  "active": "15a20df607086a77",
   "lastOpenFiles": [
-    "Grundlagen/JavaScript/JavaScrip Cheat Sheet.md",
-    "Grundlagen/JavaScript/JavaScript Überblick.md",
-    "Grundlagen/JavaScript/JavaScript Tipps & Tricks.md",
-    "Grundlagen/JavaScript/JavaScript nüztlichen Links.md",
-    "Grundlagen/CSS/CSS Tipps & Tricks.md",
-    "Grundlagen/HTML/HTML Tipps & Tricks.md",
-    "Grundlagen/CSS/CSS nützliche Links.md",
-    "Grundlagen/CSS/CSS Überblick.md",
-    "Grundlagen/CSS/CSS Cheat Sheet.md",
-    "Grundlagen/CSS/CSS Best Practices.md",
-    "Resourcen/Font Awesome.md",
-    "Grundlagen/HTML/HTML Nützliches.md",
-    "Fullstack Web Developer.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Entwicklungsumgebungen.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Version Control/Die .gitignore-Datei.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Version Control/Git - Version Control.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Version Control/GitHub.md",
-    "Grundlagen/Grundlagen Einführung.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Visual Studio Code Erweiterungen.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Erweiterungen.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Visual Studio Code.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung/Beliebte VS Code-Themes.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Einführung - Tools für die Entwicklung und Zusammenarbeit.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Integrierte Entwicklungsumgebung",
-    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/API-Test Tools/API-Test-Tools.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/Softwaretest.md",
-    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/API-Test Tools/API-Testing-Tools.md",
+    "Backend/NoSQL Datebanken",
+    "Backend/SQL Datenbanken",
+    "Backend",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/Einführung in React.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Cross-Plattform-Entwicklung.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Modulare Anwendungen.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Dynamische Anwendungen.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Performance.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Modularität.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Support.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Plattformübergreifende Nutzung.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React serverseitiges Rendering.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Tailwind.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Styled Components.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Redux.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Router.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Funktionale Komponenten.md",
+    "React Stat.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React useEffect.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React useContext.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Komponeten Lifecycle.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React State-Management.md",
+    "React useReducer.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React State.md",
+    "React Stat-Management.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Klassenkomponenten.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React Komponentenarchitektur.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React/React JSX.md",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek/React",
+    "Frameworks & Libraries/Frontend-Frameworks/JavaScript-Bibliothek",
+    "Frameworks & Libraries/Frontend-Frameworks/Tailwind",
+    "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Integrierte Entwicklungsumgebung",
     "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest/API-Test Tools",
     "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge/Softwaretest",
     "Tools für die Entwicklung und Zusammenarbeit/Entwicklungswerkzeuge",
-    "Resourcen",
-    "Tools für die Entwicklung und Zusammenarbeit/Version Control",
-    "Tools für die Entwicklung und Zusammenarbeit",
-    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind",
-    "Frameworks & Libraries/Frontend-Frameworks/CSS-Frameworks",
-    "Frameworks & Bibliotheken Einführung"
+    "Resourcen"
   ]
 }

@@ -10,8 +10,10 @@ Frontend-Frameworks und -Bibliotheken bieten wiederverwendbare Komponenten und v
 - **Komponenten-basierte Architektur**: Ermöglicht die Modularität, wodurch komplexe Anwendungen leichter verwaltet und skalierbar werden.
 
 ### Überblick über zentrale Frontend-Frameworks
+### Single Page Applications (SPAs)
+Durch die Frontend Bibliotheken wurden [SPAs](Single%20Page%20Applications.md) möglich diese revolutionieren das Web-Erlebnis, indem sie Inhalte dynamisch nachladen, ohne die gesamte Seite neu zu laden. Ob Social Media, Dashboards oder E-Commerce – [SPAs](Single%20Page%20Applications.md)  bieten eine schnelle, flüssige Benutzererfahrung und fühlen sich an wie native Apps. Dank moderner Frameworks wie React, Angular und Vue.js lassen sich [SPAs](Single%20Page%20Applications.md) effizient entwickeln und anpassen. Der Schlüssel? Ein intelligentes Zusammenspiel von JavaScript, APIs und clientseitigem Routing.
 
-1. **React**  
+1. **[React](Einführung%20in%20React.md)**  
     Entwickelt und gepflegt von Facebook, ist React eine JavaScript-Bibliothek, die sich auf die Entwicklung von Benutzeroberflächen konzentriert. Mit seiner Komponenten-basierten Architektur erleichtert React die Wiederverwendbarkeit von UI-Elementen und das Management von Zuständen in großen Anwendungen. React arbeitet deklarativ, was bedeutet, dass es einfacher ist, das gewünschte Endergebnis einer Ansicht zu beschreiben, ohne alle Zwischenschritte zu definieren.
     
 2. **Vue.js**  
@@ -29,7 +31,7 @@ CSS-Frameworks und Styling-Bibliotheken vereinfachen das Design von Webseiten du
     Bootstrap ist eines der bekanntesten CSS-Frameworks und bietet eine breite Palette an vordefinierten UI-Komponenten, wie Buttons, Modale und Navigationsleisten. Es unterstützt responsive Designs, wodurch Webseiten auf verschiedenen Geräten gut dargestellt werden.
     
 2. **Tailwind CSS**  
-    Tailwind CSS ist ein Utility-First-Framework, das eine große Anzahl von Klassen bereitstellt, um Styles direkt im HTML hinzuzufügen. Dadurch ermöglicht Tailwind ein schnelles und flexibles Styling ohne das Schreiben zusätzlicher CSS-Dateien und ist besonders effizient für individuelle Designs. Hier gibt es eine Einführung in [[Einführung in Tailwind CSS]].
+    Tailwind CSS ist ein Utility-First-Framework, das eine große Anzahl von Klassen bereitstellt, um Styles direkt im HTML hinzuzufügen. Dadurch ermöglicht Tailwind ein schnelles und flexibles Styling ohne das Schreiben zusätzlicher CSS-Dateien und ist besonders effizient für individuelle Designs. Hier gibt es eine Einführung in [Einführung in Tailwind CSS](Einführung%20in%20Tailwind%20CSS.md).
     
 3. **Materialize**  
     Materialize basiert auf dem Material-Design von Google und bietet eine einfache Möglichkeit, ansprechende und benutzerfreundliche Oberflächen zu erstellen. Es beinhaltet viele vorgefertigte UI-Komponenten, die sich an modernen Design-Standards orientieren.

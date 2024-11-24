@@ -154,6 +154,35 @@ Mit `scale(1.1)` vergrößert sich das Element auf das 1.1-fache seiner Original
 ```
 Hier dreht sich das Icon um 45 Grad, wenn die Maus darauf verweilt, was einen spielerischen Effekt erzeugt.
 
+### Beispiel: Scherung entlang der X-Achse (skewX)
+```
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  transition: transform 0.3s ease;
+}
+.box:hover {
+  transform: skewX(20deg); /* Scherung entlang der X-Achse um 20 Grad */
+}
+```
+
+Dieses Beispiel zeigt, wie ein Element entlang der X-Achse schräg gestellt wird, wenn die Maus darüber fährt.
+
+### Beispiel: Scherung entlang der Y-Achse (skewY)
+```
+.panel {
+  width: 150px;
+  height: 150px;
+  background-color: #e74c3c;
+  transition: transform 0.3s ease;
+}
+.panel:hover {
+  transform: skewY(15deg); /* Scherung entlang der Y-Achse um 15 Grad */
+}
+```
+
+Ähnlich wie bei `skewX` wird das Element hier entlang der Y-Achse schräg gestellt, wodurch interessante visuelle Effekte entstehen.
 ---
 
 ## 6. Komplexe Übergänge: Übergang aller Eigenschaften (`transition: all`)

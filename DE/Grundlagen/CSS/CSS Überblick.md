@@ -12,7 +12,7 @@ Die CSS-Dokumentation in diesem Notizbuch ist in folgende Bereiche unterteilt:
 2. **Layout-Techniken** 
     - **[Box-Modell](CSS%20Box-Modell.md)**: Detaillierte Betrachtung des CSS-Box-Modells, inklusive Inhalte, Padding, Border und Margin.
     - **[Positionierung](CSS%20Positionierung.md)**: Verwendung der CSS-Positionierung (relative, absolute, fixed und sticky).
-    - **[Flexbox](CSS%20Flexbox.md) und [Grid](CSS%20Grid)**: Moderne Layout-Techniken zur Erstellung flexibler und responsiver Layouts.
+    - **[Flexbox](CSS%20Flexbox.md) und [Grid](CSS%20Grid.md)**: Moderne Layout-Techniken zur Erstellung flexibler und responsiver Layouts.
     
 3. **Styling und Design** 
     - **[Farben](CSS%20Farben.md) und [Hintergründe](CSS%20Hintergründe.md)**: Arbeiten mit Farben, Verläufen und Hintergründen.
@@ -39,7 +39,10 @@ Die CSS-Dokumentation in diesem Notizbuch ist in folgende Bereiche unterteilt:
 
 9. **CSS Cheat Sheets**
 	   Für schnellen Zugriff auf die wichtigsten CSS-Befehle und -Eigenschaften ist ein **[CSS Cheat Sheet](CSS%20Cheat%20Sheet.md)** unerlässlich. Dieser Abschnitt enthält praktische Übersichten zu den häufig verwendeten CSS-Elementen, Layout-Eigenschaften und Einheiten. Ideal für das Arbeiten im Alltag und um immer wiederkehrende CSS-Konzepte im Blick zu behalten!
-	
+
+### Zusatz zu älteren Technologien
+
+Wir haben bewusst auf **[Floats](CSS%20Floats.md)** verzichtet, da diese Technik heutzutage durch modernere Layout-Methoden wie **[Flexbox](CSS%20Flexbox.md)** und **[Grid](CSS%20Grid.md)** ersetzt wurde. Dennoch bleibt das Wissen um Floats wertvoll, um ältere Projekte zu verstehen oder zu pflegen. Ein zukünftiger Artikel wird die Grundlagen und typische Anwendungen von Floats behandeln und entsprechende Hinweise auf diese Dokumentation bieten.
 ## Ziel dieser CSS-Dokumentation
 
 Die Dokumentation soll als umfassende Ressource dienen, um die Grundlagen von CSS zu erlernen und fortgeschrittene Techniken zu verstehen. Sie soll darüber hinaus Best Practices und aktuelle Standards abdecken, die für die Erstellung moderner, optisch ansprechender Webseiten erforderlich sind.
