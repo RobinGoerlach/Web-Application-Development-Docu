@@ -80,7 +80,7 @@ Hier sind einige Frameworks und Bibliotheken, die häufig für die Entwicklung v
 
 | **Technologie**                               | **Beschreibung**                                                |
 | --------------------------------------------- | --------------------------------------------------------------- |
-| **[React](React/Einführung%20in%20React.md)** | Beliebte JavaScript-Bibliothek für Komponenten-basierte SPAs.   |
+| **[React](Frameworks%20&%20Libraries/Frontend-Frameworks/JavaScript-Biblibiotheken/React/Einführung%20in%20React.md)** | Beliebte JavaScript-Bibliothek für Komponenten-basierte SPAs.   |
 | **Angular**                                   | Vollwertiges Framework für komplexe SPAs mit eingebauten Tools. |
 | **Vue.js**                                    | Flexibles Framework mit einfacher Lernkurve.                    |
 | **Svelte**                                    | Sehr performantes Framework, das beim Kompilieren optimiert.    |

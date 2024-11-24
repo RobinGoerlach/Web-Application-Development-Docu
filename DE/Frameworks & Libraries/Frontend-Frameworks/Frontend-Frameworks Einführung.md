@@ -13,7 +13,7 @@ Frontend-Frameworks und -Bibliotheken bieten wiederverwendbare Komponenten und v
 ### Single Page Applications (SPAs)
 Durch die Frontend Bibliotheken wurden [SPAs](Single%20Page%20Applications.md) möglich diese revolutionieren das Web-Erlebnis, indem sie Inhalte dynamisch nachladen, ohne die gesamte Seite neu zu laden. Ob Social Media, Dashboards oder E-Commerce – [SPAs](Single%20Page%20Applications.md)  bieten eine schnelle, flüssige Benutzererfahrung und fühlen sich an wie native Apps. Dank moderner Frameworks wie React, Angular und Vue.js lassen sich [SPAs](Single%20Page%20Applications.md) effizient entwickeln und anpassen. Der Schlüssel? Ein intelligentes Zusammenspiel von JavaScript, APIs und clientseitigem Routing.
 
-1. **[React](Einführung%20in%20React.md)**  
+1. **[React](Frameworks%20&%20Libraries/Frontend-Frameworks/JavaScript-Biblibiotheken/React/Einführung%20in%20React.md)**  
     Entwickelt und gepflegt von Facebook, ist React eine JavaScript-Bibliothek, die sich auf die Entwicklung von Benutzeroberflächen konzentriert. Mit seiner Komponenten-basierten Architektur erleichtert React die Wiederverwendbarkeit von UI-Elementen und das Management von Zuständen in großen Anwendungen. React arbeitet deklarativ, was bedeutet, dass es einfacher ist, das gewünschte Endergebnis einer Ansicht zu beschreiben, ohne alle Zwischenschritte zu definieren.
     
 2. **Vue.js**  

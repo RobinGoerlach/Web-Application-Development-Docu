@@ -6,17 +6,17 @@ Die JavaScript-Dokumentation ist in verschiedene Bereiche unterteilt, die grundl
 
 1. **Grundlagen der JavaScript-Programmierung** 
     - **[Syntax](JavaScript%20Syntax.md) und [Datentypen](JavaScript%20Datentypen.md)**: JavaScript-Syntax und Datentypen wie `string`, `number`, `boolean`, `null`, `undefined` und `object`.
-    - **[Variablen](Javascript%20Variablen.md) und [Operatoren](Javascript%20Operatoren.md)**: Deklaration und Initialisierung von Variablen (`let`, `const`, `var`) sowie mathematische und logische Operatoren.
-    - **[Kontrollstrukturen](Javascript%20Kontrollstrukturen.md)**: Kontrollstrukturen wie `if`, `else`, `switch`, Schleifen (`for`, `while`, `do-while`).
+    - **[Variablen](JavaScript%20Variablen.md) und [Operatoren](JavaScript%20Operatoren.md)**: Deklaration und Initialisierung von Variablen (`let`, `const`, `var`) sowie mathematische und logische Operatoren.
+    - **[Kontrollstrukturen](JavaScript%20Kontrollstrukturen.md)**: Kontrollstrukturen wie `if`, `else`, `switch`, Schleifen (`for`, `while`, `do-while`).
     
 2. **Funktionen und Scoping** 
-    - **[Funktionen](Javascript%20Funktionen.md)**: Definition und Aufruf von Funktionen, Unterschiede zwischen regulären Funktionen, Pfeilfunktionen (`=>`) und anonymen Funktionen.
-    - **[Scope](Javascript%20Scope.md) und [Closures](Javascript%20Closures)**: Erklärung von Scoping in JavaScript, Funktions-Scope und Block-Scope, sowie das Konzept der Closures.
+    - **[Funktionen](JavaScript%20Funktionen.md)**: Definition und Aufruf von Funktionen, Unterschiede zwischen regulären Funktionen, Pfeilfunktionen (`=>`) und anonymen Funktionen.
+    - **[Scope](JavaScript%20Scope.md) und [Closures](Javascript%20Closures)**: Erklärung von Scoping in JavaScript, Funktions-Scope und Block-Scope, sowie das Konzept der Closures.
     
 3. **Objektorientierung und Arrays** 
-    - **[Objekte](Javascript%20Objekte.md) und [Arrays](Javascript%20Arrays.md)**: Erstellen und Verwenden von Objekten und Arrays, Array-Methoden wie `map`, `filter`, `reduce`.
-    - **[Klassen](Javascript%20Klassen.md) und [Prototypen](Javascript%20Prototypen.md)**: Einführung in ES6-Klassen, das Prototypen-basiertes Vererbungssystem von JavaScript.
-    - **[Destrukturierung](Javascript%20Destrukturierung.md)**: Nutzung der Destrukturierung, um auf Daten innerhalb von Objekten und Arrays zuzugreifen.
+    - **[Objekte](JavaScript%20Objekte.md) und [Arrays](JavaScript%20Arrays.md)**: Erstellen und Verwenden von Objekten und Arrays, Array-Methoden wie `map`, `filter`, `reduce`.
+    - **[Klassen](JavaScript%20Klassen.md) und [Prototypen](JavaScript%20Prototypen.md)**: Einführung in ES6-Klassen, das Prototypen-basiertes Vererbungssystem von JavaScript.
+    - **[Destrukturierung](JavaScript%20Destrukturierung.md)**: Nutzung der Destrukturierung, um auf Daten innerhalb von Objekten und Arrays zuzugreifen.
     
 4. **DOM-Manipulation und Events** 
     - **[Document Object Model](Document%20Object%20Model.md) (DOM)**: Grundlagen zur Manipulation des HTML-DOMs und Zugriff auf HTML-Elemente mit `document.querySelector`, `getElementById` und mehr.

@@ -6,19 +6,19 @@ Die Weiterbildung umfasst eine Vielzahl von Technologien und Werkzeugen, die fü
 1. **Frontend-Technologien**    
     - **[HTML](Grundlagen/HTML/HTML%20Überblick.md) & [CSS](Grundlagen/CSS/CSS%20Überblick.md):** Grundgerüst und Gestaltung von Webseiten
     - **[JavaScript](Grundlagen/JavaScript/JavaScript%20Überblick.md):** Interaktivität und Logik im Browser
-    - **[Frameworks und Bibliotheken](Frameworks%20und%20Bibliotheken%20Einführung.md)** in der modernen Webentwicklung bieten Frameworks und Bibliotheken unverzichtbare Werkzeuge, um effizienter zu arbeiten. **[Tailwind CSS](Frameworks%20&%20Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Einführung%20in%20Tailwind%20CSS.md):** ermöglicht z.B. schnelles und effizientes Styling ohne eigenes CSS schreiben zu müssen.
+    - **[Frameworks und Bibliotheken](Frameworks%20&%20Libraries/Frameworks%20und%20Bibliotheken%20Einführung.md)** in der modernen Webentwicklung bieten Frameworks und Bibliotheken unverzichtbare Werkzeuge, um effizienter zu arbeiten. **[Tailwind CSS](Frameworks%20&%20Libraries/Frontend-Frameworks/CSS-Frameworks/Tailwind/Einführung%20in%20Tailwind%20CSS.md):** ermöglicht z.B. schnelles und effizientes Styling ohne eigenes [CSS](Grundlagen/CSS/CSS%20Überblick.md) schreiben zu müssen.
 
 2. **Backend-Technologien**    
-    - **Node.js:** Serverseitige JavaScript-Laufzeitumgebung zur Erstellung von Backends und APIs
-    - **Express:** Framework für die Erstellung von Webservern und APIs in Node.js
+    - **[Node.js](Laufzeitumgebungen/Node.js%20Laufzeit.md):** Serverseitige [JavaScript](Grundlagen/JavaScript/JavaScript%20Überblick.md)-[Laufzeitumgebung](Laufzeitumgebungen/Einführung%20in%20Laufzeitumgebungen.md) zur Erstellung von Backends und APIs
+    - **Express:** Framework für die Erstellung von Webservern und APIs in [Node.js](Laufzeitumgebungen/Node.js%20Laufzeit.md)
     
 3. **Weitere Themen**    
     - **Datenbanken:** Speicherung und Verwaltung von Daten, z.B. mit MongoDB oder mit SQL in einer PostgreSQL Datenbank
     - **APIs und Authentifizierung:** Integration von externen Diensten und Benutzerauthentifizierung
     - **Deployment und Cloud-Hosting:** Veröffentlichung und Skalierung von Webanwendungen in der Cloud
     - **Entwicklungswerkzeuge**
-	    - **Visual Studio Code**: Die Haupt-IDE, die für das Schreiben und Verwalten von Code genutzt wird
-	    - **Git und GitHub**: Versionskontrolle nd kollaborative Entwicklung; GitHub dient zudem als Portfolio und Referenz für Projekte. Neben der Versionierung erlaubt GitHub auch das Erstellen von Pull-Requests und Code-Reviews, um den Austausch und die Qualität des Codes sicherzustellen
+	    - **[Visual Studio Code](Tools%20für%20die%20Entwicklung%20und%20Zusammenarbeit/Entwicklungswerkzeuge/Integrierte%20Entwicklungsumgebung/Visual%20Studio%20Code.md)**: Die vielgenutzte IDE, die häufug für das Schreiben und Verwalten von Code genutzt wird.
+	    - **[Git](Tools%20für%20die%20Entwicklung%20und%20Zusammenarbeit/Versions%20Kontrolle/Git%20-%20Version%20Control.md) und [GitHub](Tools%20für%20die%20Entwicklung%20und%20Zusammenarbeit/Versions%20Kontrolle/GitHub.md)**: Versionskontrolle nd kollaborative Entwicklung; GitHub dient zudem als Portfolio und Referenz für Projekte. Neben der Versionierung erlaubt [GitHub](Tools%20für%20die%20Entwicklung%20und%20Zusammenarbeit/Versions%20Kontrolle/GitHub.md) auch das Erstellen von Pull-Requests und Code-Reviews, um den Austausch und die Qualität des Codes sicherzustellen
 	    - [Einführung - Tools für die Entwicklung und Zusammenarbeit](Einführung%20-%20Tools%20für%20die%20Entwicklung%20und%20Zusammenarbeit.md) für die Zusammenarbeit im Team
     - **Zusammenarbeit im Team** Die Zusammenarbeit im Team ist ein wesentlicher Bestandteil der Webentwicklung. Diese Tools helfen, die Projekte effizient zu strukturieren, und schaffen Transparenz in der Zusammenarbeit.
 	    - **Slack** oder **Microsoft Teams**: Kommunikationsplattformen, die den schnellen Austausch und die Organisation von Gruppenchats und Projekten unterstützen
@@ -26,9 +26,8 @@ Die Weiterbildung umfasst eine Vielzahl von Technologien und Werkzeugen, die fü
 	
 **Struktur dieses Notizbuchs**
 Um eine übersichtliche Struktur zu gewährleisten, wird das Notizbuch folgende Hauptkategorien enthalten:
-
 - **[Grundlagen](Grundlagen/Grundlagen%20Einführung.md)**: Einführung in [HTML](Grundlagen/HTML Überblick), [CSS](Grundlagen/CSS Überblick) und [JavaScript](Grundlagen/Javascript/JavaScript Überblick)
-- **Frameworks und Bibliotheken**: Vertiefung in Tailwind CSS, Node.js und Express
+- **Frameworks und Bibliotheken**: Vertiefung in [Tailwind CSS](./Tailwind/Einführung%20in%20Tailwind%20CSS.md), [Node.js](Laufzeitumgebungen/Node.js%20Laufzeit.md) und Express
 - **Projekte und Anwendungen**: Dokumentation praktischer Projekte und Codebeispiele
 - **Ressourcen und Referenzen**: Nützliche Links, Tutorials und Dokumentationen
 
